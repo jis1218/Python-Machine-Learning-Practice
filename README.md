@@ -1,4 +1,4 @@
-##### f(x0, x1) = x0^2 + x1^2의 최솟값을 gradient method로 구하는 방법
+#### f(x0, x1) = x0^2 + x1^2의 최솟값을 gradient method로 구하는 방법
 ```python
 def function_1(self, x):
         return x[0]**2 + x[1]**2
