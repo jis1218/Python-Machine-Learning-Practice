@@ -16,8 +16,7 @@ if __name__ == '__main__':
     x_history = []
     for i in range(100):
         x_history.append(x.copy())   
-        x = getMin.get_min(x)    
-        
+        x = getMin.get_min(x)            
     
     print(x_history)
     
